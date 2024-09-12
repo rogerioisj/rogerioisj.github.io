@@ -1,5 +1,6 @@
 ---
 title: Mais um blog?
+date: 2024-09-12 00:10:00 -0300
 categories: [Livre]
 tags: [livre]     # TAG names should always be lowercase
 ---
