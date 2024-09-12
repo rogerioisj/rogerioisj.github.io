@@ -54,4 +54,6 @@ A frequência que pretendo postar é ao menos 1 post por semana.
 
 Se lhe interessa, me acompanhe por aqui, no Linkedin e no Bluesky.
 
+Obrigado ao João Lucas Scharf, o Aleatório. O blog do mesmo me inspirou a fazer esse.
+
 Nos vemos por aí.
