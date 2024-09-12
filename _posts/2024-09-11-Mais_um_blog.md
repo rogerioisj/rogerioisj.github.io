@@ -5,8 +5,6 @@ categories: [Livre]
 tags: [livre]     # TAG names should always be lowercase
 ---
 
-# Mais um blog?
-
 Pois bem, esse pensamento me pegou diversas vezes antes de prosseguir de fato com a criação desse blog. Pensamentos do tipo *"Com tanto conteúdo na internet"*, *"Por que eu deveria criar mais um?"*, *"Eu sou bom o suficiente para agregar algo?"* e *"Tô fazendo isso só para aparecer?"*. Pois bem, depois de um bom e longo tempo (em torno de 3 anos), eu decidi fazer isso acontecer. Falo mais logo abaixo os motivos:
 
 ## Quando essa vontade começou?
