@@ -120,7 +120,7 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: rogerioisj/rogerioisj.github.io # <gh-username>/<repo>
-    repo_id: 853755499
+    repo_id: R_kgDOMuNGaw
     category: Announcements
     category_id: DIC_kwDOMuNGa84CidSH
     mapping: # optional, default to 'pathname'
