@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Profissional de TI criativo e colaborativo com mais de 10 anos de experiência, incluindo mais de 4 anos como engenheiro de software. Habilidoso em backend, frontend e DevOps, com experiência liderando equipes e contribuindo para projetos inovadores no setor de fintech. Proficiente em linguagens como SQL, Go, Node.js, Python e ferramentas como AWS e TypeScript.
